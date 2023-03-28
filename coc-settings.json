@@ -1,0 +1,5 @@
+{
+  "codeLens.enable": true,
+  "solargraph.useBundler": false,
+  "solargraph.commandPath": "/Users/dangoodwin/.gem/ruby/3.1.2/bin/solargraph"
+}
